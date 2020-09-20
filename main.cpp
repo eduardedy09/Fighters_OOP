@@ -1,3 +1,6 @@
+//Doi luptatori care au nume, viata, atac si blocare
+//Se ataca reciproc, o parte din atac putand fi blocat si se scade viata fiecaruia odata cu un atac executat.
+//Cand unul dintre cei doi luptatori a ajuns la 0 sau mai putin cu viata, castiga celalalt.
 #include <iostream>
 #include <cstring>
 #include <ctime>
